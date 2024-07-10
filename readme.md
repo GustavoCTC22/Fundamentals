@@ -73,3 +73,5 @@ Funcionamiento del Event Loop:
 Verifica el Call Stack y ejecuta funciones.
 Si el Call Stack está vacío, revisa la Cola de Tareas.
 Transfiere tareas de la Cola de Tareas al Call Stack cuando sea necesario.
+
+![alt text](<Captura de pantalla 2024-07-09 205606.png>)
